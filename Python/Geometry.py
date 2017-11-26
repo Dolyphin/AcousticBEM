@@ -15,6 +15,7 @@
 # You should have received a copy of the GNU General Public License
 # along with AcousticBEM.  If not, see <http://www.gnu.org/licenses/>.
 # ---------------------------------------------------------------------------
+# calculate the normal coordinates
 import numpy as np
 from numpy.linalg import norm
 
